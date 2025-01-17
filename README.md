@@ -1,5 +1,5 @@
 # UX-design
-## Lien vers les maquettes réaliser lors de ma formation en UX desgn
+## Lien vers les maquettes réalisées lors de ma formation en UX desgn
 
 Projet 2 : Site responsive pour une école de parkour fictive (Parkour Elite Academy)
 <https://www.figma.com/design/BgIwbwDxohoihfxp3xnKDw/%C3%89cole-de-parkour?m=auto&t=8v0OWKgICqqwi4sd-6>
